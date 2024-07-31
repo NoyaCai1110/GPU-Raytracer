@@ -6,7 +6,7 @@ This is a GPU based Raytracer using C++/GLSL. ALL object defining and ray tracin
 
 Ray-tracing is done in the vertex and fragment shaders: GI.vs and GI.fs. The majority of the tracing is done in the fragment shader and the vertex shader is only passing the value of screen coordinates to fragment shader. 
 
-![Final](Image\Raytracing.bmp)
+![Final](https://github.com/NoyaCai1110/GPU-Raytracer/blob/main/Image/Raytracing.bmp)
 
 ## Tone Reproduction
 
