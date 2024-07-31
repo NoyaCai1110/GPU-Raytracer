@@ -6,7 +6,7 @@ This is a GPU based Raytracer using C++/GLSL. ALL object defining and ray tracin
 
 Ray-tracing is done in the vertex and fragment shaders: GI.vs and GI.fs. The majority of the tracing is done in the fragment shader and the vertex shader is only passing the value of screen coordinates to fragment shader. 
 
-![Final](D:\RIT\Term2\CSCI711\Assignments\github\Ocean_Simulator\Image\Raytracing.bmp)
+![Final](Image\Raytracing.bmp)
 
 ## Tone Reproduction
 
